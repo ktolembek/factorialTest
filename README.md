@@ -4,8 +4,11 @@ TribalScale factorial testing assignment
 Bug Report documentation for a factorial calculator app located at https://qainterview.pythonanywhere.com/
 
 Google Docs files could be accessed through these links
+
 Bug Report 1 https://docs.google.com/document/d/1RdnjuWAJt3-eEZzuRkkLGnaP9k776VkRqBXyGLyLU3w/edit?usp=sharing
+
 Bug Report 2 https://docs.google.com/document/d/1PFsgBhpjCN0Khbd4qmIVb6Ps6xfxEnNioq0xgIF5DhA/edit?usp=sharing
+
 
 I have created 4 automated test cases:
 Test case 1: Factorial of 0 shoould be 1

@@ -11,10 +11,15 @@ Bug Report 2 https://docs.google.com/document/d/1PFsgBhpjCN0Khbd4qmIVb6Ps6xfxEnN
 
 
 I have created 4 automated test cases:
+
 Test case 1: Factorial of 0 shoould be 1
+
 Test case 2: Only numerical symbols should be accepted. Entering alphabetic symbols should give an error
+
 Test case 3: Entering Negative integers should give an error
+
 Test case 4: Entering big integers should give a correct value or a warning that operation is limited
+
 
 To run this test cases you need:
 1. Any modern OS (Windows 8.1 or higher, MacOS Mojave or higher, Ubuntu Linux 18 or higher)
